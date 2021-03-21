@@ -469,6 +469,7 @@ body {
   background-color: var(--color-white);
   -webkit-box-shadow: var(--shadow-light);
           box-shadow: var(--shadow-light);
+  font-size: 1.4rem;
   padding: 3rem;
   -webkit-box-flex: 0;
       -ms-flex: 0 0 60%;
