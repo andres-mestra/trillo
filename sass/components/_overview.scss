@@ -52,6 +52,11 @@
         @media only screen and (max-width: $bp-small) {
             padding: 0 1.5rem;
         }
+
+        @media only screen and (max-width: $bp-smallest) {
+            padding: 0 1rem;
+            text-align: center;
+        }
     }
     
     &__rating-average {
